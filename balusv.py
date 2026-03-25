@@ -5,3 +5,7 @@ print(L)
 print(L[0])
 b=L[1]
 print(b)
+h=L[2]
+print(h)
+m=L[3]
+print(m)
