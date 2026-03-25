@@ -3,3 +3,5 @@ L =['balu','siva','kumar','vishnu','siva','balu','kumar','siva','balu']
 print(L)
 # This is a git push test
 print(L[0])
+b=L[1]
+print(b)
